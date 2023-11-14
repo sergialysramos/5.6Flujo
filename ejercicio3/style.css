@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+}
+
+main {
+    background-color: rgb(186, 130, 238);
+    display: flex;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#uno {
+    color: rgb(53, 94, 53);
+    width: 70%;
+    margin-left: 20px;
+
+}
+
+#dos {
+    color: rgb(191, 105, 191);
+    background-color: rgb(117, 170, 42);
+    padding: 20px 60px 20px 60px;
+    border-radius: 25px;
+    margin: 20px 60px 20px 60px;
+
+
+
+}
+
+li {
+    list-style: none;
+}
